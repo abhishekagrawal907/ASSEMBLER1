@@ -1,0 +1,40 @@
+						   JAC ASSEMBLER :
+
+
+JAC ASSEMBLER IS A HYPOTHETICAL COMPUTING MACHINE WHICH COMPILES ASSEMBLY LANGUAGE CODE AND
+FORMS AN OBJECT CODE FILE.
+THIS MACHINE IS CREATED USING C LANGUAGE WHICH GIVES A CLEAR PICTURE THAT HOW AN ASSEMBLER
+ASSEMBLES THE CODE AND PROCESSES EACH COMMAND LINE BY LINE ACCORDINGLY.
+THE MAIN MOTIVE OF CREATING THIS MACHINE IS NOT RUN THE PROGRAMME INSTEAD ITS TO DEMONSTRATE THE WORKING OF AN
+ASSEMBLER.
+
+INSTRUCTION SET:
+
+LDA	10	Load/Store    
+LDX	11	Load/Store    
+LDCH	12	Load/Store    
+LDL	13	Load/Store    
+STA	14	Load/Store    
+STB	15	Load/Store
+STS	16	Load/Store
+STX	17	Load/Store    
+STCH	18	Load/Store    
+STL	19	Load/Store    
+STSW	20	Load/Store    
+ADD	21	Arithmetic   
+SUB	22	Arithmetic   
+MUL	23	Arithmetic & Logic   
+DIV	24	Arithmetic & Logic    
+AND	25	Arithmetic & Logic   
+OR	26	Arithmetic & Logic   
+COMP	27	Comparison    
+TIX	28	Comparison   
+J	29	Conditional Jumps   
+JLT	30	Conditional Jumps    
+JGT	31	Conditional Jumps   
+JEQ	32	Conditional Jumps   
+JSUB  	33	Subroutine Linkage    
+RSUB  	34	Subroutine Linkage   
+TD  	35	Input/Output    
+RD	36  	Input/Output    
+WD  	37	Input/Output   
